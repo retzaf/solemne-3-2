@@ -1,4 +1,5 @@
 import streamlit as st
+import requests
 
 # Configuración de la página principal de Streamlit
 st.set_page_config(
