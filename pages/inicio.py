@@ -3,14 +3,14 @@ import streamlit as st
 
 def show():
     # Título principal estilizado
-    st.markdown("<h1>🌟 Análisis de los Mejores Libros de la Década 2330 🌟</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>🌟 Análisis de los Mejores Libros de la Década  🌟</h1>", unsafe_allow_html=True)
 
     # Descripción introductoria
     st.markdown("""
     <div style='background-color:#f9f9f9; padding: 20px; border-radius: 10px;'>
     <h2>📚 Bienvenido a la Aplicación de Análisis de Libros 📚</h2>
     <p>
-    Esta aplicación utiliza una base de datos de los <b>mejores libros de la década 2330</b>, basada en una encuesta a
+    Esta aplicación utiliza una base de datos de los <b>mejores libros de la década </b>, basada en una encuesta a
     <b>600,000 lectores</b> para evaluar y rankear los libros más destacados.
     </p>
     <p>
