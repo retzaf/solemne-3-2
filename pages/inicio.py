@@ -3,7 +3,7 @@ import streamlit as st
 
 def show():
     # Título principal estilizado
-    st.markdown("<h1>🌟 Análisis de los Mejores Libros de la Década  🌟</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>🌟 Análisis de los Mejores Libros de la Década🌟</h1>", unsafe_allow_html=True)
 
     # Descripción introductoria
     st.markdown("""
